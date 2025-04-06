@@ -52,7 +52,7 @@ public class Game extends Canvas implements Runnable {
 		}
 	}
 	
-	// Java main method. First method that runs.
+	// Java main method. First method that runs. test
 	public static void main(String[] args) {
 		Game game = new Game();
 		game.frame.setResizable(false);
