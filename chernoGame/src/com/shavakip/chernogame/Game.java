@@ -18,7 +18,7 @@ public class Game extends Canvas implements Runnable {
 	private boolean running = false;
 	// Window
 	private JFrame frame;
-	
+	//test
 	public Game() {
 		// Creates dimension
 		Dimension size = new Dimension(width * scale, height * scale);
